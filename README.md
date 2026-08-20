@@ -3,7 +3,7 @@ Algorithm to find the minimum moves required for optimal observation tower place
 
 ## Program User Manual
 
-### 1. Prepare the Input Data
+### Prepare the Input Data
 Ensure the input data file `U3.txt` is located in the working directory (`App_Data/U3.txt`). The file must follow this structure:
 * **Line 1:** The grid dimension $N$ ($N \times N$ matrix).
 * **Line 2:** Space-separated $X$ coordinates of the towers.
