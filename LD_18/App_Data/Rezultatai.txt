@@ -1,0 +1,13 @@
+Pradinės apžvalgos bokštų pozicijos:
+⬜ 🗼 ⬜ ⬜ 
+⬜ ⬜ 🗼 🗼 
+⬜ ⬜ ⬜ ⬜ 
+⬜ ⬜ ⬜ 🗼 
+
+Minimalus perkėlimų skaičius: 6
+
+Perkeltos apžvalgos bokštų pozicijos:
+🗼 ⬜ ⬜ ⬜ 
+⬜ ⬜ 🗼 ⬜ 
+⬜ 🗼 ⬜ ⬜ 
+⬜ ⬜ ⬜ 🗼 
